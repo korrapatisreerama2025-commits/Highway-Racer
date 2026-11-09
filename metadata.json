@@ -1,0 +1,6 @@
+{
+  "name": "Roadster Run: Highway Surfer",
+  "description": "An electrifying endless 3D highway runner featuring the Tesla Roadster. Dodge bidirectional traffic, conquer weather storms, charge at roadside Superchargers, and master energy efficiency.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
